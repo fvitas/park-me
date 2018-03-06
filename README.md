@@ -1,2 +1,2 @@
 # park-me
-Parking application for Belgrade cars POC
+React Native parking application for Belgrade cars POC
